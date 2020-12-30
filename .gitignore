@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#mygitignore
+data/submission.csv
+src/model/model.pkl
+
 # Distribution / packaging
 .Python
 build/
