@@ -1,0 +1,4 @@
+test_set_dir: "data/test.csv"
+train_set_dir: "data/train.csv"
+model_save_dir: "src/model/model.pkl"
+random_state: 0
